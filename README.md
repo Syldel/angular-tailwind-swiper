@@ -25,3 +25,11 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+# Deploy on Github page
+
+Look the result of this project on my Github page (Not SSR version) :
+
+https://syldel.github.io/angular-tailwind-swiper/
+
+Read this : https://dev.to/angular/build-deploy-angular-apps-in-github-pages-using-github-actions-e7a
