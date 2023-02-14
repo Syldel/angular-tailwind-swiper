@@ -33,3 +33,5 @@ Look the result of this project on my Github page (Not SSR version) :
 https://syldel.github.io/angular-tailwind-swiper/
 
 Read this : https://dev.to/angular/build-deploy-angular-apps-in-github-pages-using-github-actions-e7a
+
+Go in Github settings/actions, in "Workflow permissions", enable "Read and write permissions"
